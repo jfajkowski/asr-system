@@ -10,6 +10,3 @@
 [submodule "asr-scraper"]
 	path = asr-scraper
 	url = https://www.github.com/jfajkowski/asr-scraper
-[submodule "asr-tools"]
-	path = asr-tools
-	url = https://www.github.com/jfajkowski/asr-tools
