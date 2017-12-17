@@ -1,12 +1,9 @@
-[submodule "asr-client"]
-	path = asr-client
-	url = https://www.github.com/jfajkowski/asr-client
 [submodule "asr-builder"]
 	path = asr-builder
 	url = https://www.github.com/jfajkowski/asr-builder
-[submodule "asr-server"]
-	path = asr-server
-	url = https://www.github.com/jfajkowski/asr-server
 [submodule "asr-scraper"]
 	path = asr-scraper
 	url = https://www.github.com/jfajkowski/asr-scraper
+[submodule "asr-service"]
+	path = asr-service
+	url = https://www.github.com/jfajkowski/asr-service.git
