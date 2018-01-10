@@ -7,3 +7,6 @@
 [submodule "asr-service"]
 	path = asr-service
 	url = https://www.github.com/jfajkowski/asr-service.git
+[submodule "asr-tools"]
+	path = asr-tools
+	url = https://github.com/jfajkowski/asr-tools
